@@ -6,4 +6,4 @@
     of the starter code provided for the assignment.
 */
 
-cut << "Data Structures are Important!!" << endl;
+cout << "Data Structures are Important!!" << endl;
