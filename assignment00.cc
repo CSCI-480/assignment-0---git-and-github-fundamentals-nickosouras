@@ -6,3 +6,4 @@
     of the starter code provided for the assignment.
 */
 
+cut << "Data Structures are Important!!" << endl;
